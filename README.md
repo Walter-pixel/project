@@ -40,3 +40,7 @@ then it will return you the final cost after applying only 'rule_ipad4' promotio
 
 ==================================================================================
 ## Unit Test
+1. In test.py file, there are 3 tests. Each of the test unit apply only one promotion rule
+- Test 1: Consider scanning 3 atv, and apply promotion "rule_three_for_two_atv".
+- Test 2: Consider scanning 5 ipd, and apply promotion "rule_ipad4".
+- Test 3: Consider scanning 2 vga and 3 mbp, and apply promotion "rule_VGAfree_per_Mac".
